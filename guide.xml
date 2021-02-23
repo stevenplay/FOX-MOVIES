@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal Fox Premium Movies">
+    <display-name lang="es">Fox Premium Movies</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210223001200 -0600" stop="20210223020000 -0600" channel="Canal Fox Premium Movies">
+    <title lang="es">El ritmo de la venganza</title>
+  </programme>
+  <programme start="20210223020000 -0600" stop="20210223040800 -0600" channel="Canal Fox Premium Movies">
+    <title lang="es">Jack Reacher</title>
+  </programme>
+  <programme start="20210223040800 -0600" stop="20210223060500 -0600" channel="Canal Fox Premium Movies">
+    <title lang="es">The Last Full Measure</title>
+  </programme>
+  <programme start="20210223060500 -0600" stop="20210223081900 -0600" channel="Canal Fox Premium Movies">
+    <title lang="es">El Vuelo</title>
+  </programme>
+  <programme start="20210223081900 -0600" stop="20210223102300 -0600" channel="Canal Fox Premium Movies">
+    <title lang="es">Sangre, sudor y gloria</title>
+  </programme>
+  <programme start="20210223102300 -0600" stop="20210223121000 -0600" channel="Canal Fox Premium Movies">
+    <title lang="es">High life</title>
+  </programme>
+  <programme start="20210223121000 -0600" stop="20210223135600 -0600" channel="Canal Fox Premium Movies">
+    <title lang="es">La Iglesia De La Salvación</title>
+  </programme>
+  <programme start="20210223135600 -0600" stop="20210223152700 -0600" channel="Canal Fox Premium Movies">
+    <title lang="es">El Libro de la Vida</title>
+  </programme>
+  <programme start="20210223152700 -0600" stop="20210223171600 -0600" channel="Canal Fox Premium Movies">
+    <title lang="es">Tolkien</title>
+  </programme>
+  <programme start="20210223171600 -0600" stop="20210223190200 -0600" channel="Canal Fox Premium Movies">
+    <title lang="es">Dos Armas Letales</title>
+  </programme>
+  <programme start="20210223190200 -0600" stop="20210223203900 -0600" channel="Canal Fox Premium Movies">
+    <title lang="es">Cambio de Vida</title>
+  </programme>
+  <programme start="20210223203900 -0600" stop="20210223221100 -0600" channel="Canal Fox Premium Movies">
+    <title lang="es">Eliminar Amigo 2</title>
+  </programme>
+  <programme start="20210223221100 -0600" stop="20210224000300 -0600" channel="Canal Fox Premium Movies">
+    <title lang="es">Azul Extremo</title>
+  </programme>
+</tv>
